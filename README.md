@@ -28,9 +28,8 @@ If this project fuels your curiosity or accelerates your work, consider backing 
 - **Binance:** `860227151`
 <!-- - **PayPal:**  `` -->
 - **Crypto Wallets:**  
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
+  - **BTC:** `1Li83bEHBkdqMzVTUTfunQPbRUq3L2R2Ue`  
+  - **ETH:** `0x2b1bf0cb729769837cb19d8925419a434ed40d7e`
 
 ---
 
